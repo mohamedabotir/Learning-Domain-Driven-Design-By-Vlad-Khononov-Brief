@@ -46,7 +46,8 @@ Each domain is split into **subdomains**, and companies cannot succeed with only
 | **Core** | Provides competitive advantage | Must be unique |
 | **Supporting** | Needed but not strategically unique | Could be externalized |
 | **Generic** | Commodity functionalities | Often OSS/SaaS |
-![alt text](images/subdomains.png)
+
+![Subdomains categorize](images/subdomains.png)
 > If a supporting domain becomes revenue-generating → it becomes **Core**.
 
 ---
