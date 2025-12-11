@@ -149,8 +149,6 @@ Guidelines:
 - One repository per aggregate  
 - Inter-aggregate communication should be ID-based  
 
-![Aggregate Example](images/fig6.png)
-
 ---
 ---
 
